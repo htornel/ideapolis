@@ -9,7 +9,7 @@ Autor(es) ______________
 
 Resumen : _________
 
-logotipo : ________
+logotipo : ![logo_origenes_diversos](https://github.com/htornel/origenes-diversos/blob/main/Logo_Origenes%20diversos.png)
 
 Slogan (frase motivadora/inspiradora): ________
 
