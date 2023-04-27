@@ -1,93 +1,64 @@
-(Nombre del proyecto)
-(Plantilla para la creación de un proyecto en ideapolis)
+## **ORÍGENES DIVERSOS**
+
 
 Proyecto de Inteligencia Colectiva y Formación en la Empresa Master en Gestión y Tecnologías de Procesos de Negocio ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 
-Titulo : _______
+**Titulo :** Creción de comunidad **Orígenes Diversos**
 
-Autor(es) ______________
+**Autor(es)** Sirine Benlalam, María del Carmen Rodríguez Noguera y Hugo Emmanuel Tornel Fierro
 
-Resumen : _________
+**Resumen :** Orígenes diversos representa una comunidad de integreación social, donde no se excluye a ninguna individuo por sus ideales, relegión, procedencia o simpatías políticas, por que al final de todo somos personas y cada una tiene su valor.
 
-logotipo : ![logo_origenes_diversos](https://github.com/htornel/origenes-diversos/blob/main/Logo_Origenes%20diversos.png)
+**logotipo :**
 
-Slogan (frase motivadora/inspiradora): ________
+![logo_origenes_diversos](https://github.com/htornel/origenes-diversos/blob/main/Logo_Origenes%20diversos.png)
 
-Hashtag ___
+Nota: Puedes revisar el logo directamente en [Canvas](https://www.canva.com/design/DAFewKCih9U/BQKHUrsGoRUQHYURBMV5uw/view?utm_content=DAFewKCih9U&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink).
 
-Licencia (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES)
+**Slogan :** Unidos desde la raíz.  
 
-Fecha : 2021
+**Hashtag** 
 
-Medios (donde se tiene presencia):
+#originesdiversos #roots #unidosdesdelaraiz 
 
-:octocat: (github url)
-Twitter
-...
-Metodología
-Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia de diseño de Experiencias de usuario (UX experiences)
+**Licencia :** Creative commons, revisar en https://creativecommons.org/licenses/?lang=es_ES
 
-Etapa 1: Ideación de proyecto
-Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
+Para el logo del proyecto se utilizó la combinación: **BY-NC-SA**.
 
-Investigación de campo Desk research propuestas inspiradoras para el proyecto)
+**Imagen de cabecera :**
 
-@LadyDistopia (link) ...¿ por qué ?
-(...)
-Necesidad/oportunidad
+![imagen-de-cabecera_origenes_diversos](https://github.com/htornel/origenes-diversos/blob/0c7a7719bd3ec3e4466b4b4baace97604a0f40e9/Imagen%20de%20cabecera_Or%C3%ADgenes%20Diversos.png)
 
-Motivación de la propuesta .... ¿ por qué consideras interesante ?
+Nota: Puedes revisar el logo directamente en [Canvas](https://www.canva.com/design/DAFhBli2TOk/NhzmQHU0JUlYKtUKHaAATw/view?utm_content=DAFhBli2TOk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink).
 
-Personas/Usuarios (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?)
+**Icono :**
 
-Etapa 2: Prototipar / productos
-(Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses)
+![icono_origenes_diversos](https://github.com/htornel/origenes-diversos/blob/0c7a7719bd3ec3e4466b4b4baace97604a0f40e9/Icono_Origenes%20diversos.jpeg)
 
-Imagen visual (Portada / Diseño de Interfaz) y herramienta usada
+**Fecha :** Abril 2022 
 
-redes sociales (...)
+## **Descripción :**
 
-publicidad: banner (... )
+Orígenes Diversos es una asociación de participación y expresión donde se facilitará la integración de nuevos visitantes extranjeros en la sociedad.
 
-...
+En esta asociación cultural buscamos potenciar y fomentar, a través de actividades o eventos, la cultura en cualquiera que sean sus aspectos como objetivo primordial. Preservar la cultura de los individuos en sus distintas formas, como puede ser la danza, la música, la gastronomía, entre otros. Esta apoya la difusión de la cultura local y promueve el intercambio cultural.
 
-Etapa 3: Técnicas de evaluación utilizadas
-(Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone)
+Todo se contribuye con el fin de encontrar facilidad de apertura de las distintas culturas a través de su intervención en dichas actividades culturales. Porque la cultura es un factor esencial para un buen desarrollo de los niveles de bienestar de los ciudadanos, pues cubre los derechos culturales e identitarios, el sentimiento de pertenecer a una comunidad, fomenta la adherencia y apoya al desarrollo formativo de las personas.
 
-Test con usuarios (...)
-...
-Conclusiones y trabajo futuro
-Grado de consecución del proyecto
-Problemas identificados (técnicos / sobre la idea inicial / planificacion… )
-Propuestas de mejora (por qué consideras que merece la pena continuar)
-Posible interés del proyecto (¿ Quien podría colaborar / involucrarse en el proyecto? ¿viable?)
-Referencias y recursos:
+## **Social Media Plan:**
+![socialMediaPlan_origenes_diversos](https://github.com/htornel/origenes-diversos/blob/0c7a7719bd3ec3e4466b4b4baace97604a0f40e9/SocialMediaPlan_Origenes%20Diversos.jpeg)
 
-Artículos ..
-Productos utilizados
-Propuestas de mejora
-(...)
+Github :octocat: : https://github.com/htornel/origenes-diversos.git
 
-Referencias y recursos utilizados :
 
-Proceso UX
-Diseño de Experiencias UX
-Métodos UX
-MuseMap: ejemplo de experiencia UX
-(...)
-(...)
+## **Trabajo a futuro :**
+Se plenea darle continiación a este comunidad con la creación de un sitio web donde nuestros miembros puedan acceder y explorar nuestros avances, desarrollar una aplicación móvil para que nos tengan siempre a la mano de una manera rápida y próxmamente una oficina donde puedan llegar a contactarnos directamente.
 
-(Artículos .. )
-(Productos utilizados )
-(Recursos tipo Imágenes, videos , etc.)
+## **Recursos utilizados :**
+* Repositorio de código GitHub (https://github.com/)
+* Canva (https://www.canva.com/)
 
-# ideapolis
 
-Espacio colaborativo y de publicación de proyectos de Inteligencia Colectiva y Formación de en la Empresa 
-
-## Contenidos: 
-
-- [Plantilla de proyecto](https://github.com/mgea/ideapolis/blob/main/plantilla.md) 
 
 
 ## Proyectos previos: 
