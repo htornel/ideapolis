@@ -7,7 +7,7 @@ Proyecto de Inteligencia Colectiva y Formación en la Empresa Master en Gestión
 
 **Autor(es)** Sirine Benlalam, María del Carmen Rodríguez Noguera y Hugo Emmanuel Tornel Fierro
 
-**Resumen :** Orígenes diversos representa una comunidad de integreación social, donde no se excluye a ninguna individuo por sus ideales, relegión, procedencia o simpatías políticas, por que al final de todo somos personas y cada una tiene su valor.
+**Resumen :** Orígenes diversos representa una comunidad de integreación social, donde no se excluye a ningún individuo por sus ideales, relegión, procedencia o simpatías políticas, por que al final de todo somos personas y cada una tiene su valor.
 
 **logotipo :**
 
@@ -29,11 +29,13 @@ Para el logo del proyecto se utilizó la combinación: **BY-NC-SA**.
 
 ![imagen-de-cabecera_origenes_diversos](https://github.com/htornel/origenes-diversos/blob/0c7a7719bd3ec3e4466b4b4baace97604a0f40e9/Imagen%20de%20cabecera_Or%C3%ADgenes%20Diversos.png)
 
-Nota: Puedes revisar el logo directamente en [Canvas](https://www.canva.com/design/DAFhBli2TOk/NhzmQHU0JUlYKtUKHaAATw/view?utm_content=DAFhBli2TOk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink).
+Nota: Puedes revisar la imagen de cabecera directamente en [Canvas](https://www.canva.com/design/DAFhBli2TOk/NhzmQHU0JUlYKtUKHaAATw/view?utm_content=DAFhBli2TOk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink).
 
 **Icono :**
 
 ![icono_origenes_diversos](https://github.com/htornel/origenes-diversos/blob/0c7a7719bd3ec3e4466b4b4baace97604a0f40e9/Icono_Origenes%20diversos.jpeg)
+
+Nota: Puedes revisar el icono directamente en [Canvas](https://www.canva.com/design/DAFhU1qIW94/P0zbU-yydb0Yu4OpwTCBOw/view?utm_content=DAFhU1qIW94&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink).
 
 **Fecha :** Abril 2022 
 
