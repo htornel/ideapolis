@@ -52,6 +52,9 @@ Todo se contribuye con el fin de encontrar facilidad de apertura de las distinta
 
 Github :octocat: : https://github.com/htornel/origenes-diversos.git
 
+## **Presentación :**
+
+[Orígenes Diversos](https://www.canva.com/design/DAFhgJVAC6w/db8-XIkFNAqNxB7ePNI5cA/view?utm_content=DAFhgJVAC6w&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 ## **Trabajo a futuro :**
 Se plenea darle continiación a este comunidad con la creación de un sitio web donde nuestros miembros puedan acceder y explorar nuestros avances, desarrollar una aplicación móvil para que nos tengan siempre a la mano de una manera rápida y próxmamente una oficina donde puedan llegar a contactarnos directamente.
